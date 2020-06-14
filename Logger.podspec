@@ -20,5 +20,6 @@ Pod::Spec.new do |spec|
   # spec.ios.framework  = 'UIKit'
   # spec.osx.framework  = 'AppKit'
 
-  # spec.dependency 'SomeOtherPod'
+  # spec.dependency 'Firebase/Core'
+
 end
