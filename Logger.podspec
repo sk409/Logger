@@ -1,11 +1,11 @@
 Pod::Spec.new do |spec|
   spec.name          = 'Logger'
-  spec.version       = '0.0.1'
+  spec.version       = '0.0.2'
   spec.license       = { :type => 'MIT' }
   spec.homepage      = 'https://github.com/sk409/Logger'
   spec.authors       = { "shoutokobayashi" => "deepstrap353@gmail.com" }
   spec.summary       = 'ARC and GCD Compatible Reachability Class for iOS and OS X.'
-  spec.source        = { :git => 'https://github.com/sk409/Logger.git', :tag => '0.0.1' }
+  spec.source        = { :git => 'https://github.com/sk409/Logger.git', :tag => '0.0.2' }
   # spec.module_name   = 'Rich'
   spec.swift_version = '4.0'
 
